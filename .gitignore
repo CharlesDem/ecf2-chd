@@ -227,5 +227,7 @@ compressed/
 data/
 typings/
 test/
-output/
+output/consommation_clean
+output/consommations_enrichies.parquet
+output/consommations_enrichies.csv
 ECF_CONCEPTEUR_APPLI_DONNEES.md
